@@ -3,12 +3,16 @@
 ## 🏫 Planta Escuela
 
 <ul>
-  <li><a href="https://lotgomez.github.io/Planta-escuela-con-3D/index.html">Recorrido Virtual (Versión Base)</a> - Recorrido estándar con Pano2VR (sin Gaussian Splatting).</li>
-  <li><a href="https://superspl.at/scene/7a3017ed">Recorrido con Gaussian Splatting (Versión Liviana)</a> - Visualización 3D optimizada para un rendimiento más fluido.</li>
-  <li><a href="https://lotgomez.github.io/Planta-escuela-3D-para-celular/index.html">Recorrido con Gaussian Splatting (Alta Definición - 5 Millones)</a> - Versión avanzada con modelo denso de 5 millones de puntos.</li>
+  <li><a href="https://lotgomez.github.io/Planta-escuela-con-3D/index.html">Recorrido Virtual (Versión Base)</a> - Recorrido estándar con Pano2VR.</li>
+  <li><b>Variantes con Gaussian Splatting:</b>
+    <ul>
+      <li><a href="https://superspl.at/scene/7a3017ed">Modelo 3D en Supersplat (Versión Liviana)</a> - Visualización optimizada.</li>
+      <li><a href="https://lotgomez.github.io/Planta-escuela-3D-para-celular/index.html">Recorrido (Versión para Celular / Alta Definición)</a> - Adaptación avanzada.</li>
+    </ul>
+  </li>
 </ul>
 
-## 🎮 Guía de Uso / Controles (Modelos 3D)
+## 🎮 Guía de Uso / Controles (Modelos 3D y Supersplat)
 
 <ul>
   <li><b>Moverse (como en un juego):</b> Utiliza las teclas <b>W, A, S, D</b> para avanzar, retroceder y desplazarte hacia los lados.</li>
