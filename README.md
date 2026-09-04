@@ -3,18 +3,22 @@
 ## 🏫 Planta Escuela
 
 <ul>
-  <li><a href="https://superspl.at/scene/7a3017ed">Modelo 3D en Supersplat </a> - </li>
-  <li><a href="https://lotgomez.github.io/Planta-escuela-con-3D/index.html">Recorrido Virtual (Versión Base)</a> - Recorrido estandar, fusionando fotos 360 de alta resolucion con transiciones en 3D.</li>
-  <li><b>Variantes con Gaussian Splatting:</b>
+  <li><b>Versiones en Supersplat (Modelos 3D interactivos para explorar libremente):</b>
     <ul>
-      <li><a href="https://lotgomez.github.io/Planta_Escuela/index.html">Modelo 3D en Supersplat (Versión Liviana)</a> - Visualización optimizada.</li>
-      <li><a href="https://lotgomez.github.io/Planta-escuela-3D-para-celular/index.html">Recorrido (Versión para Celular / Alta Definición)</a> - Adaptación avanzada.</li>
+      <li><a href="https://superspl.at/scene/7a3017ed">Modelo 3D Completo</a> - Versión principal para recorrer con total libertad usando la computadora (ideal si tienes buena PC).</li>
+      <li><a href="https://superspl.at/scene/fa13a00b">Modelo 3D Liviano (Para Celular)</a> - Versión optimizada y más ligera, perfecta para abrir desde el teléfono o dispositivos con menos recursos.</li>
     </ul>
-    
+  </li>
+  <li><b>Recorridos Virtuales (Pano2VR - Estilo foto 360° con puntos de vista fijos):</b>
+    <ul>
+      <li><a href="https://lotgomez.github.io/Planta-escuela-con-3D/">Recorrido 360° con Modelo 3D Detallado</a> - El recorrido tradicional combinando las fotos panorámicas con la versión más pesada y de mayor calidad del modelo 3D.</li>
+      <li><a href="https://lotgomez.github.io/Planta-escuela-3D-para-celular/">Recorrido 360° con Modelo 3D Liviano</a> - El mismo recorrido panorámico pero acompañado de una versión del modelo 3D más ligera para que cargue más rápido.</li>
+      <li><a href="https://lotgomez.github.io/Planta_Escuela/">Recorrido 360° Clásico (Solo Fotos)</a> - El recorrido panorámico tradicional únicamente con imágenes, sin el modelo 3D superpuesto (ideal si quieres navegar de forma súper fluida sin importar el dispositivo).</li>
+    </ul>
   </li>
 </ul>
 
-## 🎮 Guía de Uso / Controles (Modelos 3D y Supersplat)
+## 🎮 Guía de Uso / Controles (Para los Modelos 3D)
 
 <ul>
   <li><b>Moverse (como en un juego):</b> Utiliza las teclas <b>W, A, S, D</b> para avanzar, retroceder y desplazarte hacia los lados.</li>
