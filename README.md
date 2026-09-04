@@ -6,7 +6,8 @@
 <ul>
   <li><a href="https://lotgomez.github.io/Planta-escuela-con-3D/index.html">Recorrido Virtual (Pano2VR)</a> - Recorrido interactivo de la planta.</li>
   <li><a href="https://superspl.at/scene/7a3017ed">Modelo 3D / Gaussian Splatting (Supersplat)</a> - Visualización GS alojada en Supersplat.</li>
-  <li><a href="https://lotgomez.github.io/Planta-escuela-3D-para-celular/index.html">Versión para Celular</a> - Adaptación optimizada para dispositivos móviles.</li>
+  <li><a href="https://lotgomez.github.io/Planta-escuela-3D-para-celular/index.html">Versión 3D mas simplificado</a> - Adaptación optimizada con modelo 3D para dispositivos móviles o computadoras de bajos requisitos.</li>
+  <li><a href="https://lotgomez.github.io/Planta-escuela/index.html">Versión liviana</a> - Recorrido interactivo sin modelo 3D, ideal para smartphone o computadoras de bajos requisitos.</li>
 </ul>
 
 </details>
