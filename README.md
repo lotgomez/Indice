@@ -14,3 +14,5 @@
 
 * [Link de ejemplo 1](https://github.com) - Descripción de este enlace.
 * [Link de ejemplo 2](https://github.com) - Descripción de este enlace.
+
+</details>
