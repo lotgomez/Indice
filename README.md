@@ -1,19 +1,14 @@
 # Mi Índice de Proyectos
 
-<details>
-<summary><b>🏫 Planta Escuela</b></summary>
+## 🏫 Planta Escuela
 
 <ul>
-  <li><a href="https://lotgomez.github.io/Planta-escuela-con-3D/index.html">Recorrido Virtual </a> - Recorrido interactivo de la planta.</li>
-  <li><a href="https://lotgomez.github.io/Planta-escuela-3D-para-celular/index.html">Versión 3D mas simplificado</a> - Adaptación optimizada con modelo 3D para dispositivos móviles o computadoras de bajos requisitos.</li>
-  <li><a href="https://lotgomez.github.io/Planta-escuela/index.html">Versión liviana</a> - Recorrido interactivo sin modelo 3D, ideal para smartphone o computadoras de bajos requisitos.</li>
-  <li><a href="https://superspl.at/scene/7a3017ed">Modelo 3D / Gaussian Splatting </a> - Visualización GS alojada en Supersplat.</li>
+  <li><a href="https://lotgomez.github.io/Planta-escuela-con-3D/index.html">Recorrido Virtual (Versión Base)</a> - Recorrido estándar con Pano2VR (sin Gaussian Splatting).</li>
+  <li><a href="https://superspl.at/scene/7a3017ed">Recorrido con Gaussian Splatting (Versión Liviana)</a> - Visualización 3D optimizada para un rendimiento más fluido.</li>
+  <li><a href="https://lotgomez.github.io/Planta-escuela-3D-para-celular/index.html">Recorrido con Gaussian Splatting (Alta Definición - 5 Millones)</a> - Versión avanzada con modelo denso de 5 millones de puntos.</li>
 </ul>
 
-</details>
-
-<details>
-<summary><b>🎮 Guía de Uso / Controles (Supersplat)</b></summary>
+## 🎮 Guía de Uso / Controles (Modelos 3D)
 
 <ul>
   <li><b>Moverse (como en un juego):</b> Utiliza las teclas <b>W, A, S, D</b> para avanzar, retroceder y desplazarte hacia los lados.</li>
@@ -22,20 +17,7 @@
   <li><b>Zoom:</b> Gira la <b>ruedita del mouse</b> para acercarte o alejarte del modelo.</li>
 </ul>
 
-</details>
-
-<details>
-<summary><b>📂 Otra Categoría (Ejemplo)</b></summary>
-
-<ul>
-  <li><a href="https://github.com">Link de ejemplo 1</a> - Descripción de este enlace.</li>
-  <li><a href="https://github.com">Link de ejemplo 2</a> - Descripción de este enlace.</li>
-</ul>
-
-</details>
-
-<details>
-<summary><b>⚖️ Términos y Condiciones / Aviso Legal</b></summary>
+## ⚖️ Términos y Condiciones / Aviso Legal
 
 <ul>
   <li><b>Carácter informativo y académico:</b> Los recursos, modelos 3D, recorridos virtuales y enlaces alojados en este sitio tienen un fin estrictamente educativo y de divulgación académica en el ámbito de la facultad.</li>
@@ -43,5 +25,3 @@
   <li><b>Propiedad intelectual:</b> Los escaneos, modelos y materiales propios compartidos en este espacio están destinados al uso institucional y de la comunidad académica. Queda prohibida su comercialización o redistribución con fines de lucro sin previa autorización.</li>
   <li><b>Exención de responsabilidad:</b> La facultad y los administradores de este sitio no se responsabilizan por inconvenientes técnicos, interrupciones de los servicios externos alojados en servidores de terceros, ni por un uso inadecuado de las herramientas por parte de los usuarios.</li>
 </ul>
-
-</details>
