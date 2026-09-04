@@ -32,3 +32,15 @@
 </ul>
 
 </details>
+
+<details>
+<summary><b>⚖️ Términos y Condiciones / Aviso Legal</b></summary>
+
+<ul>
+  <li><b>Carácter informativo y académico:</b> Los recursos, modelos 3D, recorridos virtuales y enlaces alojados en este sitio tienen un fin estrictamente educativo y de divulgación académica en el ámbito de la facultad.</li>
+  <li><b>Uso de los enlaces externos:</b> Las plataformas de terceros (tales como Pano2VR, Supersplat u otros servicios de alojamiento externo) se rigen por sus propias políticas de privacidad y términos de servicio, sobre los cuales este sitio no tiene control ni responsabilidad directa.</li>
+  <li><b>Propiedad intelectual:</b> Los escaneos, modelos y materiales propios compartidos en este espacio están destinados al uso institucional y de la comunidad académica. Queda prohibida su comercialización o redistribución con fines de lucro sin previa autorización.</li>
+  <li><b>Exención de responsabilidad:</b> La facultad y los administradores de este sitio no se responsabilizan por inconvenientes técnicos, interrupciones de los servicios externos alojados en servidores de terceros, ni por un uso inadecuado de las herramientas por parte de los usuarios.</li>
+</ul>
+
+</details>
