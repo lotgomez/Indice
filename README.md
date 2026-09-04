@@ -3,12 +3,14 @@
 ## 🏫 Planta Escuela
 
 <ul>
-  <li><a href="https://lotgomez.github.io/Planta-escuela-con-3D/index.html">Recorrido Virtual (Versión Base)</a> - Recorrido estándar con Pano2VR.</li>
+  <li><a href="https://superspl.at/scene/7a3017ed">Modelo 3D en Supersplat </a> - </li>
+  <li><a href="https://lotgomez.github.io/Planta-escuela-con-3D/index.html">Recorrido Virtual (Versión Base)</a> - Recorrido estandar, fusionando fotos 360 de alta resolucion con transiciones en 3D.</li>
   <li><b>Variantes con Gaussian Splatting:</b>
     <ul>
-      <li><a href="https://superspl.at/scene/7a3017ed">Modelo 3D en Supersplat (Versión Liviana)</a> - Visualización optimizada.</li>
+      <li><a href="https://lotgomez.github.io/Planta_Escuela/index.html">Modelo 3D en Supersplat (Versión Liviana)</a> - Visualización optimizada.</li>
       <li><a href="https://lotgomez.github.io/Planta-escuela-3D-para-celular/index.html">Recorrido (Versión para Celular / Alta Definición)</a> - Adaptación avanzada.</li>
     </ul>
+    
   </li>
 </ul>
 
