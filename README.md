@@ -13,7 +13,7 @@
     <ul>
       <li><a href="https://lotgomez.github.io/Planta-escuela-con-3D/">Recorrido 360° con Modelo 3D Detallado</a> - El recorrido tradicional combinando las fotos panorámicas con la versión más pesada y de mayor calidad del modelo 3D.</li>
       <li><a href="https://lotgomez.github.io/Planta-escuela-3D-para-celular/">Recorrido 360° con Modelo 3D Liviano</a> - El mismo recorrido panorámico pero acompañado de una versión del modelo 3D más ligera para que cargue más rápido.</li>
-      <li><a href="https://lotgomez.github.io/Planta_Escuela/">Recorrido 360° Clásico (Solo Fotos)</a> - El recorrido panorámico tradicional únicamente con imágenes, sin el modelo 3D superpuesto (ideal si quieres navegar de forma súper fluida sin importar el dispositivo).</li>
+      <li><a href="https://lotgomez.github.io/Planta-escuela/">Recorrido 360° Clásico (Solo Fotos)</a> - El recorrido panorámico tradicional únicamente con imágenes, sin el modelo 3D superpuesto (ideal si quieres navegar de forma súper fluida sin importar el dispositivo).</li>
     </ul>
   </li>
 </ul>
